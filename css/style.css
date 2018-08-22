@@ -72,13 +72,13 @@
 ::-moz-selection { color: #fff; background-color: #45deb0 }
 ::selection { color: #fff; background-color: #45deb0 }
 body {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	line-height: 1.8;
 	letter-spacing: 0;
 	color: #999;
-	font-size: 16px;
+	font-size: 20px;
 	overflow-x: hidden;
 }
 ul, ol {
@@ -172,7 +172,7 @@ select {
 	color: inherit;
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	letter-spacing: -0.03em;
 	line-height: 1.2;
@@ -209,7 +209,7 @@ h6, .h6 {
 	background-attachment: fixed;
 }
 .branding__logo img, .maintenance-header img {
-	width: 60px;
+	width: 120px;
 }
 .branding__logo img {
 	padding-top: 20px;
@@ -948,7 +948,7 @@ h6, .h6 {
 	padding-bottom: 14px;
 }
 .page-title-bar-inner .heading {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	letter-spacing: -0.03em;
 	line-height: 1.3;
@@ -969,7 +969,7 @@ h6, .h6 {
 .page-breadcrumb .breadcrumb li,
 .page-breadcrumb .breadcrumb li a {
 	display: inline-block;
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 400;
 	letter-spacing: 0em;
@@ -995,7 +995,7 @@ h6, .h6 {
 	border-bottom: none;
 }
 .page-title-bar-02 .page-title-bar-inner .heading {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	letter-spacing: -0.03em;
 	line-height: 1.3;
@@ -1008,7 +1008,7 @@ h6, .h6 {
 }
 .page-title-bar-02 .breadcrumb li, 
 .page-title-bar-02 .breadcrumb li a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	font-weight: 400;
 	letter-spacing: 0em;
@@ -1031,7 +1031,7 @@ h6, .h6 {
 	margin-bottom: 7px;
 }
 .page-title-bar-03 .page-title-bar-inner .heading {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	letter-spacing: -0.03em;
 	line-height: 1.3;
@@ -1047,7 +1047,7 @@ h6, .h6 {
 }
 .page-title-bar-03 .breadcrumb li, 
 .page-title-bar-03 .breadcrumb li a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	font-weight: 500;
 	letter-spacing: 0em;
@@ -1080,7 +1080,7 @@ h6, .h6 {
 	margin-bottom: 7px;
 }
 .page-title-bar-04 .page-title-bar-inner .heading {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	letter-spacing: -0.03em;
 	line-height: 1.3;
@@ -1096,7 +1096,7 @@ h6, .h6 {
 }
 .page-title-bar-04 .breadcrumb li, 
 .page-title-bar-04 .breadcrumb li a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	font-weight: 500;
 	letter-spacing: 0em;
@@ -1426,7 +1426,7 @@ h6, .h6 {
 	border-bottom: 1px solid #eee;
 }
 .header-top, .header-top a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	letter-spacing: 0em;
 	line-height: 1.8;
@@ -1786,7 +1786,7 @@ h6, .h6 {
 	display: inline-block;
 }
 .header-desktop .menu--primary a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 500;
 	letter-spacing: 0em;
 	line-height: 1.2;
@@ -1880,7 +1880,7 @@ h6, .h6 {
 	border-left: 1px solid #eee;
 }
 .header-desktop .menu--primary .sub-menu a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	letter-spacing: -0.02em;
 	line-height: 1.2;
@@ -2017,7 +2017,7 @@ h6, .h6 {
 	color: #fff;
 	font-weight: 400;
 	line-height: 1.7;
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 }
 #toggle-menu > div > ul:first-child > li > a:hover {
 	color: #fff;
@@ -2238,7 +2238,7 @@ h6, .h6 {
 	padding: 0;
 }
 .header-left-menu .menu--primary .sub-menu a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	letter-spacing: -0.02em;
 	line-height: 1.2;
@@ -2477,7 +2477,7 @@ h6, .h6 {
 .box-icon.style-2 .heading {
 	font-size: 24px;
 	color: #333;
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	letter-spacing: -0.03em;
 	line-height: 1.2;
@@ -2632,7 +2632,7 @@ h6, .h6 {
 
 /* === 2.5. BUTTON === */
 .button {
-	font-family: Work Sans;
+	font-family: Open Sans;
 	position: relative;
 	display: inline-block;
 	text-align: center;
@@ -3542,7 +3542,7 @@ h6, .h6 {
 	background: #fff;
 	font-size: 15px;
 	color: #878c9b;
-	font-family: Work Sans;
+	font-family: Open Sans;
 	-webkit-transition: all .1s cubic-bezier(.645,.045,.355,1);
 	transition: all .1s cubic-bezier(.645,.045,.355,1);
 }
@@ -7085,7 +7085,7 @@ body[data-row-skin=dark] .page-open-main-menu i {
 	display: block;
 }
 .page-mobile-main-menu .mobile-menu a {
-	font-family: "Work Sans", Helvetica, Arial, sans-serif;
+	font-family: "Open Sans", "Work Sans", Helvetica, Arial, sans-serif;
 	font-weight: 400;
 	letter-spacing: 0em;
 	line-height: 1.5;
